@@ -58,7 +58,7 @@ This phase includes **intro screen rendering**, **static game view**, custom **R
 ## 🖼️ Game Preview
 
 ### 📌 Game Screens
-![Game Screens](gameScreenShots.png)
+![Game Screens](GameScreenShots.png)
 
 ### 🧰 Program Structure
 - `InitVideo` — switch to 320×200×256 mode  
